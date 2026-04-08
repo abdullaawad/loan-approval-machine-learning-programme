@@ -2,8 +2,8 @@
 
 # Tool and packages used:
 
-Python: Pandas, Numpy, Scikit-Learn, Plotly.
-
+- Python: Pandas, Numpy, Scikit-Learn, Plotly.
+- Google Colab
 
 # Description:
 
